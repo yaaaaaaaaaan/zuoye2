@@ -77,7 +77,7 @@ span{color: red;}
     button{
         border: 2px solid black;
                 
-                padding: 10px 10px 10px 10px;
+                padding: 5px 5px 5px 5px;
                 position:absolute;
                margin: 20%;
             font-size: 11px;
