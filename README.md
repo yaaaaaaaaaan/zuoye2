@@ -108,9 +108,12 @@ span{color: red;}
             </div>
           </div>
         </ul>
-        <button type="submit" name="firt" value="search">search</button><br>
-        <input type="text">
-         
+<div class="emm">
+            <div class="emmb-content"><input type="text"></div>
+            <div class="emma-content"><button type="submit">search</button></div>
+            
+           
+        </div>
         
     </body>
 </html>
