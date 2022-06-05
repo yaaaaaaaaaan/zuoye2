@@ -1,12 +1,14 @@
-
+<!DOCTYPE html>
 <html>
     <head>
         <style>
             input[type=text]{
                 border: 2px solid black;
                 width: 200px;
+                height: 10px;
                 padding: 10px 10px 10px 10px;
                 padding-left: 30px;
+                position: relative;
                 margin-top: 300px;
                 margin-left: 500px;
                 background-image: url("校标（蓝）.png")
@@ -14,10 +16,27 @@
                 background-repeat: no-repeat;
                 background-position: left;
                 }
+                button{
+        border: 2px solid black;
+                
+                padding: 10px 10px 10px 10px;
+                position:absolute;
+               margin-left: 600px;
+               margin-top: 10px;
+              
+               font-size: 11px;
+               }
+               .emm{margin-bottom: 1000px;
+            margin-right: 500px;}
+
+
+
+
+
+
+
                 option{color: red;}
                 select{color: red;}
-            .emm{margin-bottom: 1000px;
-            margin-right: 500px;}
             li{
             text-align:center;
             text-decoration:none;
@@ -77,25 +96,12 @@ span{color: red;}
     select{display: inline-block;
       
     }
-    button{
-         border: 2px solid black;
-                
-                padding: 10px 10px 10px 10px;
-                position:absolute;
-               margin-left: 600px;
-               margin-top: 10px;
-               font-size: 11px;
-               margin-bottom: 10px;
-
-                
-       
-
-    }
+   
     
        </style>
 
     </head>
-    <body style="background-image: url(天空.jpg)">
+    <body style="background-image: url(天空.jpg)"></body>
         <ul>
             <img src="校标（蓝）.png" alt="tubiao" width="50px" height="50px">
         <li><a  href="#new">New</a></li>
@@ -110,12 +116,17 @@ span{color: red;}
             </div>
           </div>
         </ul>
-<div class="emm">
+        <div class="emm">
             <div class="emmb-content"><input type="text"></div>
             <div class="emma-content"><button type="submit">search</button></div>
             
            
         </div>
+        
+
+
+       
+         
         
     </body>
 </html>
