@@ -7,7 +7,8 @@
                 width: 200px;
                 padding: 10px 10px 10px 10px;
                 padding-left: 30px;
-                margin: 30%;
+                margin-top: 300px;
+                margin-left: 500px;
                 background-image: url("校标（蓝）.png")
                 ;background-size: 20px;
                 background-repeat: no-repeat;
@@ -75,12 +76,14 @@ span{color: red;}
       
     }
     button{
-        border: 2px solid black;
+         border: 2px solid black;
                 
-                padding: 5px 5px 5px 5px;
+                padding: 10px 10px 10px 10px;
                 position:absolute;
-               margin: 20%;
-            font-size: 11px;
+               margin-left: 600px;
+               margin-top: 10px;
+               font-size: 11px;
+               margin-bottom: 10px;
 
                 
        
