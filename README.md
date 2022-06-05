@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
     <head>
         <style>
@@ -103,7 +103,7 @@ span{color: red;}
        </style>
 
     </head>
-    <body style="background-image: url(天空.jpg)"></body>
+    <body style="background-image: url(天空.jpg)">
         <ul>
             <img src="校标（蓝）.png" alt="tubiao" width="50px" height="50px">
         <li><a  href="#new">New</a></li>
