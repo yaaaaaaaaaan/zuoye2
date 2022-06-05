@@ -11,6 +11,7 @@
                 position: relative;
                 margin-top: 300px;
                 margin-left: 500px;
+            margin-right: 500px;
                 background-image: url("校标（蓝）.png")
                 ;background-size: 20px;
                 background-repeat: no-repeat;
@@ -23,6 +24,7 @@
                 position:absolute;
                margin-left: 600px;
                margin-top: 10px;
+            margin-right: 200px;
               
                font-size: 11px;
                }
