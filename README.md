@@ -80,6 +80,7 @@ span{color: red;}
                 padding: 10px 10px 10px 10px;
                 position:absolute;
                margin: 40%;
+            font-size: 11px;
 
                 
        
